@@ -1,0 +1,595 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>O. Cromwell's thankes to the Lord Generall, faithfully presented by Hugh Peters in another conference. Together with an hue and cry after Mercurius Politicus.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90110</idno>
+            <idno type="STC">Wing O13</idno>
+            <idno type="STC">Thomason E1023_10</idno>
+            <idno type="STC">ESTC R208580</idno>
+            <idno type="EEBO-CITATION">99867522</idno>
+            <idno type="PROQUEST">99867522</idno>
+            <idno type="VID">119837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119837)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1023[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>O. Cromwell's thankes to the Lord Generall, faithfully presented by Hugh Peters in another conference. Together with an hue and cry after Mercurius Politicus.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by M.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>A Satire in which Cromwell's thanks are addressed to General Monck. -- Thomason Catalogue.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "May 10".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peters, Hugh, 1598-1660 --  Humor --  Early works to 1800.</term>
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Humor --  Early works to 1800.</term>
+               <term>Cromwell, Oliver, 1599-1658 --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th Century.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119837:1"/>
+            <pb facs="tcp:119837:1" rendition="simple:additions"/>
+            <p>O. Cromwells THANKES TO THE Lord Generall, Faithfully preſented by Hugh Peters In another Conference.</p>
+            <p>Together with an Hue and Cry AFTER <hi>Mercurius Politicus.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>M. T.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="masque">
+            <pb facs="tcp:119837:2"/>
+            <pb n="1" facs="tcp:119837:2"/>
+            <head>
+               <hi>Cromwel's</hi> Thanks to the Lord Ge<g ref="char:EOLhyphen"/>neral, faithfully preſented by <hi>HVGH PETERS.</hi>
+            </head>
+            <head type="sub">
+               <hi>Oliver Cromwell,</hi> having had a late
+<hi>Conference</hi> with the new <hi>Lord Generall,</hi> (truly reported by
+<hi>Hugh Peters,</hi> wherein he made an earneſt requeſt to his
+<hi>Excellency</hi> for the ſending of ſeverall per<g ref="char:EOLhyphen"/>ſons to him, to receive their juſt Rewards, as well as himſelf, which by good Fortune is very much gratified) appeareth again to <hi>Peters</hi> in Saint <hi>Jamſes Park;</hi> To whom he applieth himſelf after his wonted manner, as followeth.</head>
+            <sp>
+               <speaker>Cromwell.</speaker>
+               <p>
+                  <seg rend="decorInit">H</seg>Oneſt <hi>Hugh!</hi> Well met! Of all my old Acquaintance and Familiars; I have none in ſuch eſteem, as thy ſelf! Thou art honeſt indeed! I did but deſire <hi>George Monke</hi> to do me a civill Cour<g ref="char:EOLhyphen"/>teſie; and I really finde, that thou thy ſelf haſt been very Sollicitous and aſſiduous in moving him to grant it; which he hath done to my great content and ſatisfaction, and for which I am come againe of purpoſe to thee, that I may preſent my Thanks unto him by thine own hands.</p>
+            </sp>
+            <sp>
+               <speaker>Peters.</speaker>
+               <p>Sir, I am body and ſoul at your Devotion and ſervice! I am your obſequious Vaſſall, and ſhall with all Obſervance and Fidelity perform your Commands.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:119837:3"/>
+               <speaker>Cromw.</speaker>
+               <p>Prethee <hi>Peters!</hi> How does honeſt <hi>George Monk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>He is very well, Sir. And who but He! You never had a quarter of that Love and Reſpect from City or Country, as he has gotten by his Policy, in all your life.</p>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <p>Seriouſly ſo <hi>Robin Titchburn</hi> tells me. The old Proverb is very true, <hi>Birds of a Feather, will flock together:</hi> And ſo will gregal Beaſts too. I did but de<g ref="char:EOLhyphen"/>ſire honeſt <hi>George,</hi> to ſend that Ape to me, and he has ſent me my little Marmoſet <hi>Jack Ireton</hi> too in Com<g ref="char:EOLhyphen"/>pany? Its honeſtly done of him. He was ever a noble Fellow, and as good, if not better, than his word: And thats more than ever I was in all my dayes, all the world knows.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Nay but <hi>Sir,</hi> you may be well aſſured, and take my honeſt word for it, that his Excellency will ſend you ſome more Company, ere it be long: He is very mindfull of your Requeſts.</p>
+            </sp>
+            <sp>
+               <speaker>Cromw.</speaker>
+               <p>I believe thee.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Sir, For all <hi>Jo. Lambert</hi> did ſhew him a ſlippery Trick lately, and go out of the Tower, and headed a part of the Phanatick party near <hi>Daintry,</hi> together with <hi>Okey,</hi> young <hi>Haſterige,</hi> and divers others; yet by the proweſſe and valour of your Coſen
+<hi>Richard In<g ref="char:EOLhyphen"/>goldsby,</hi> and others under his Command, they are all routed, and <hi>Lambert</hi> himſelf, with the Heads of that knot of Rebels, and Traitors (as they call them) are brought up priſoners, and ſecured in
+<hi>Cold harbour,</hi> and other parts of the Tower of <hi>London;</hi> and it will not be long firſt, ere they be all ſent packing by an Attainder in Parliament to ſee how you do; or elſe they'le have very ill luck.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:119837:3"/>
+               <speaker>Crom.</speaker>
+               <p>I profeſſe, <hi>Peters!</hi> I am very glad of it: I thought I ſhould not be long without Company. I ſhall be glad to ſee my old Chronees again. I'le doe what I can for them, as I promiſed before, when I was laſt with thee. But why doeſt thou ſtay all this while from me, to thy prejudice, when thou might<g ref="char:EOLhyphen"/>eſt have a <hi>Conge d'eſlure</hi> preſently (I am confident) to be Arch-Biſhop of our Infernall
+<hi>Babell,</hi> if thou wouldeſt but come to me? What is it, that I cannot doe, if I pleaſe, when I am pleaſed? And that was al<g ref="char:EOLhyphen"/>wayes a very hard matter to do, thou knoweſt! But, I finde it very true, What I have often ſaid hereto<g ref="char:EOLhyphen"/>fore: <hi>The Devill is good when he is pleaſed.</hi> And thou doeſt fit my turn daintily.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>I marry Sir, I ſhall be well ſet up indeed. A Biſhoprick! and an Arch one too! Oh brave, my Lord! I'le come to you, I'le warrant you! I never was ſuch a ſimple foole yet, as to be a foe to my own profit. A Biſhop! I'le not refuſe your proffer, my Lord: If <hi>John Calvin</hi> might have had but the like at <hi>Geneva,</hi> he would never have been ſuch a rigid <hi>Pres<g ref="char:EOLhyphen"/>byter,</hi> as he was. Oh my Stars! This is a noble prof<g ref="char:EOLhyphen"/>fer indeed. A Biſhop! and Biſhop of <hi>Babell</hi> too! Why! its double honour, my Lord! An Arch-Bi<g ref="char:EOLhyphen"/>ſhop! a Metropolitane! a Primate! What not? a Province! 'tis admirable! I profeſſe, I'le be ſure to prefer Mr.
+<hi>Feake.</hi> Up, he goes! And for <hi>Luke Har<g ref="char:EOLhyphen"/>runny</hi> (the metal man) he ſhall be Incumbent at St. <hi>Thomas</hi> Watering. My dearly beloved,
+<hi>Ignatius Loyola (Philip Nye)</hi> has given me the ſlip (as ſome ſay) like a cunning knave, and gone over to <hi>Holland</hi> for a Triall without me: And ſo has <hi>Nedham</hi> too of a certain, like a ſlye Rogue, as he is: He's fully re<g ref="char:EOLhyphen"/>ſolved <pb n="4" facs="tcp:119837:4"/> to take up my name-ſake
+<hi>Hugh's</hi> trade, and Cobble the ſecond part of <hi>Mare Liberum:</hi> But I will ſend an <hi>Hue</hi> and <hi>Cry</hi> after him to the <hi>Hogen Mogans,</hi> that he may be remitted from thence to his own pro<g ref="char:EOLhyphen"/>per Country. Would you think it my Lord, that <hi>Bunce</hi> and <hi>Maſſie</hi> are come over again? Nay more, That <hi>Maſſie</hi> ſhould be choſen a Parliament-man. The wheele turns ſtrangely round. Yonders the Earle of
+<hi>Northumberland,</hi> and all the Lords gotten together a<g ref="char:EOLhyphen"/>gain, I proteſt, in the Houſe of Peers. There's ſuch a Noble Pack of them, that it would make you ſtark mad, if you were but here a little to ſee them. They are not ſuch a baſe Pack, as you ſhuffled together, we all know to be true. Nay, now the King will come in, and you can hardly ſee any body without his or his Fathers Colours in their Hats. Their work goes on amain: And I'le tell you one remarkable thing more, my Lord, for a rare ſecret; as ſure as may be, if they alight on you, they'le lay you by <hi>Sindercombe</hi> at
+<hi>Tower-hill:</hi> For your old friend, the Earle of <hi>Man<g ref="char:EOLhyphen"/>chester</hi> is Speaker again of the Lords Houſe; and he will be ſure to remember your former kindneſſe and love to him at <hi>Dunnington</hi> Caſtle.</p>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <p>Why! this is news indeed! I think I had beſt come oftner hither, that I may know how ſquares goe. What a foole was I to be ſo mercifull to the Royalliſt and Presbyterians? If I had ſent them all to Heaven in a ſtring, this had never been brought a<g ref="char:EOLhyphen"/>bout! prethee what does Sr.
+<hi>Arther Haſlerige</hi> doe?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Doe! Do you call it? Why! he's gone in<g ref="char:EOLhyphen"/>to <hi>Holland</hi> too, and they ſay, that he has an huge bank there. But my Lord, what do you think is be<g ref="char:EOLhyphen"/>come of <hi>Harry Martine?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:119837:4"/>
+               <speaker>Crom.</speaker>
+               <p>Why! what's betid of him?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>
+                  <hi>Harry</hi> is gone to ſweat out the Pox at
+<hi>Serra<g ref="char:EOLhyphen"/>nam</hi> in the Weſt Indies, as ſure as a Club, and has ta<g ref="char:EOLhyphen"/>ken a whole Covey of Whores with him, to plant the Country. Oh! There will be ſweet work with them, I trow. He has paid all his Debts with a pox to him, and Sr.
+<hi>John Lent halls</hi> Chamber rent too with a miſcheif.</p>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <p>Oh brave <hi>Harry!</hi> He has more knaviſh wit, than twenty of them. Well, he'le be ſure to come to me however at one time or other.
+<hi>Caelum non ani<g ref="char:EOLhyphen"/>mum mutant, qui trans mare currunt;</hi> Change of Country is no change of Condition! But is there no more gone beyond the Seas?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>There's divers more gone over the water to
+<hi>Lambeth</hi>-houſe:</p>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <p>Why! thats well! And what does <hi>Ned Dendy</hi> keep them there, as he was wonted to do in my time?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>No, no, Do not ye believe that Sir: There is a <hi>Norfolk</hi> man gotten into his place, that (they ſay) has an hundred times more honeſty in him, than ever that formal Cox-combe had. Well Sir, The old Herb-women, Gardeners, Butchers, and Poulterers; nay, and all the Victuallers in <hi>London,</hi> are reſolved to make an Holy day for <hi>Titchburn</hi> and <hi>Ireton:</hi> They have obtained favour already for a couple of Beards for them (againſt the day) to be made of the wooll of an old Dog, that's come very lately from <hi>Mareco,</hi> to congratulate the members of the Committee of Safety, and confirm a League with them in the be<g ref="char:EOLhyphen"/>half of his Maſter the Majeſty of <hi>Leather</hi>-land.</p>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <p>
+                  <hi>Its an ill winde, that blows no body no profit!
+<pb n="6" facs="tcp:119837:5"/> Rob. Titchburn,</hi> and my other ſmall Officer have al<g ref="char:EOLhyphen"/>wayes had good fortune: witneſſe <hi>Spencer</hi> the poul<g ref="char:EOLhyphen"/>terer, and the honeſt Chandler in <hi>Black-friers, Cum multis aliis,</hi> as I remember.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>I, my Lord! They are both to be poſted up in
+<hi>Pauls</hi>-Church-yard for a couple of eminent Wor<g ref="char:EOLhyphen"/>thies; in whoſe Majoralties ſo many good-works were done for the honour of the City, to their praiſe be it ſpoken; as the Conſecration of <hi>Pauls</hi>-Church<g ref="char:EOLhyphen"/>yard for Cabbages and Turnips, the Repairing of <hi>Pauls</hi> Steeple, and erection of a very lofty Spire up<g ref="char:EOLhyphen"/>on, that may be plainly ſeen on the ground in
+<hi>New<g ref="char:EOLhyphen"/>gate-market</hi> without lifting up of one's head, and ſo forth.</p>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <p>Thou telleſt me wonders indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Your printers are reſolved to come to you, (Sir) and embrace your favour; ſo as you will let them print, as you promiſed
+<hi>gratis;</hi> for they have little to doe now, but to liſten after Intelligence.</p>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <p>They'le be hanged firſt, before they'le come at me!</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Nay, Sir, It was no more than time to give them a little eaſe; for <hi>Harry Hils</hi> drave on ſo furiouſ<g ref="char:EOLhyphen"/>ly, that one of his preſſe-men for haſt-ſake, has quite over-wrought his man
+<hi>Thomas,</hi> and ſtreined his back. He thought, there was no more to do, than up and ride; but I think he's paid with a pox to him. His Maſter had better luck, when he wrought Jour<g ref="char:EOLhyphen"/>ney-work with the Taylors wife in
+<hi>Black-friers.</hi> If the virulence of his diſtemper continue, he muſt get a better head-piece, or a <hi>Steel</hi> cap to keep in his Brains, or they'le run quite away from him; unleſs he can procure ſome skilfull phyſitian in St. <hi>Thomas</hi>'s <pb n="7" facs="tcp:119837:5"/> Hoſpitall to hold them within the Reines.</p>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <p>There's an Engine indeed: A printing-preſs! The Devill would not be a preſs-man, to work like a Horſe, and have no better ſucceſſe. Well, <hi>Peters!</hi> I muſt be gone to my Maſter; but faile not to give <hi>George</hi> hearty thanks for remembring me ſo reſpectively. And let me know, what he ſaith to thee, as ſoon as you can.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>I will Sir.</p>
+            </sp>
+            <stage>Exit Cromwell.</stage>
+            <sp>
+               <speaker>PETERS</speaker>
+               <stage>ſolus, <hi>Singing and dancing for joy!</hi>
+               </stage>
+               <lg>
+                  <l>O <hi>Babell!</hi> I thy Biſhop</l>
+                  <l>Elected am! an Arch one!</l>
+                  <l>No Monk ſhall remain</l>
+                  <l>In thy province; but <hi>Vane,</hi>
+                  </l>
+                  <l>And <hi>Hewſon</hi> along ſhall march on.</l>
+               </lg>
+               <lg>
+                  <l>I am for Deformation,</l>
+                  <l>Let order be confounded;</l>
+                  <l>All things will go well,</l>
+                  <l>When the Biſhop of Hell</l>
+                  <l>Rules all the Roſt with's Round-head.</l>
+               </lg>
+               <lg>
+                  <l>Then hey! for the See of <hi>Babel!</hi>
+                  </l>
+                  <l>And hoh! for the old Protector!</l>
+                  <l>The Biſhop his Grace,</l>
+                  <l>Is come into place,</l>
+                  <l>And made an infernal Rector.</l>
+               </lg>
+            </sp>
+            <div type="song">
+               <pb n="8" facs="tcp:119837:6"/>
+               <head>Peters <hi>goes to St.</hi> James's Houſe, and preſenteth old <hi>Oliver's</hi> Thanks to the Lord General in a <hi>Canto,</hi> as followeth.</head>
+               <opener>
+                  <hi>To the Tune of,</hi> I tell thee Dick,
+<hi>&amp;c.</hi>
+               </opener>
+               <lg>
+                  <l>REnowned <hi>George!</hi> I have Command,</l>
+                  <l>From <hi>Oliver</hi> to kiſs your Hand,</l>
+                  <l>And thankfully to pay</l>
+                  <l>His beſt reſpects to you, who have</l>
+                  <l>Him ſpeaking from his reſtleſſe grave;</l>
+                  <l>In manner, as I ſay.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>George Monke;</hi> you have done well indeed,</l>
+                  <l>In doing it with ſuch good ſpeed,</l>
+                  <l>Some Company to ſend,</l>
+                  <l>Who ſhall be well-come! Come there more,</l>
+                  <l>We have reſerv'd for them ſuch ſtore,</l>
+                  <l>Shall never have an end.</l>
+               </lg>
+               <lg>
+                  <l>I would not have them ſtay too long;</l>
+                  <l>Nor yet be ſent in ſuch a Throng,</l>
+                  <l>To trouble <hi>Charon's</hi> ſcore.</l>
+                  <l>No! I would have them have their Due;</l>
+                  <l>And ſuch Examples made by you,</l>
+                  <l>The like may be no more.</l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:119837:6"/>
+                  <l>And therefore ſend us Three or Fou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>At once; and then as many more,</l>
+                  <l>And thus our Boat will Row;</l>
+                  <l>
+                     <hi>Charon</hi> will make a quick Return</l>
+                  <l>With <hi>Lambert, Ireton</hi> and <hi>Titchburn,</hi>
+                  </l>
+                  <l>And more ſecurely goe.</l>
+               </lg>
+               <lg>
+                  <l>This Order keep, and you will finde,</l>
+                  <l>The reſt, that ſhall be left behinde,</l>
+                  <l>You may diſpatch with eaſe,</l>
+                  <l>From <hi>Tiburn,</hi> or from <hi>Tower-hill:</hi>
+                  </l>
+                  <l>A few Fanaticks ſped thus, will</l>
+                  <l>Prevent a worſe diſeaſe.</l>
+               </lg>
+               <lg>
+                  <l>And thus I thank you, and have ſent,</l>
+                  <l>Our Biſhop's Grace (Incontinent)</l>
+                  <l>Your Excellence to greet!</l>
+                  <l>Be honeſt, <hi>George,</hi> and you ſhall be,</l>
+                  <l>A Subject of Felicitie,</l>
+                  <l>And you and I neere meet.</l>
+               </lg>
+               <epigraph>
+                  <q>
+                     <l>Exitus acta probat:</l>
+                     <l>Finis non pugna coronat.</l>
+                  </q>
+               </epigraph>
+            </div>
+            <div type="song">
+               <pb n="10" facs="tcp:119837:7"/>
+               <head>An Hue and Cry after <hi>Mercurius Politicus.</hi>
+               </head>
+               <opener>To the ſame Tune.</opener>
+               <lg>
+                  <l>OYes! Oyes! Oyes! I ſing!</l>
+                  <l>If any one can Tidings bring,</l>
+                  <l>Or News, come do't with ſpeed,</l>
+                  <l>A good reward you ſhall be paid</l>
+                  <l>By every honeſt Coffee blade,</l>
+                  <l>To fear you ſhall not need.</l>
+               </lg>
+               <lg>
+                  <l>A <hi>New-gate</hi> Bird of late did flye,</l>
+                  <l>Whoſe Marks and Tokens I deſcry,</l>
+                  <l>Or elſe ye'de call me foole.</l>
+                  <l>Though <hi>Bos in Linguâ</hi> he hath not;</l>
+                  <l>Nor is he a prodigious <hi>Scot,</hi>
+                  </l>
+                  <l>Hatch'd in the <hi>Solun Poole;</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Yet is he of as ſtrange a kinde;</l>
+                  <l>Produc'd he was, as do's the Winde,</l>
+                  <l>'Gender the Spaniſh Race!</l>
+                  <l>A puff, or two of vain Applauſe,</l>
+                  <l>Made him for, or againſt the Cauſe,</l>
+                  <l>To Cant in any Caſe.</l>
+               </lg>
+               <lg>
+                  <l>His Name is kind to <hi>CERBER<g ref="char:V">Ʋ</g>S,</hi>
+                  </l>
+                  <l>
+                     <hi>Tricapito MERC<g ref="char:V">Ʋ</g>RI<g ref="char:V">Ʋ</g>S:</hi>
+                  </l>
+                  <l>A <hi>Proteus</hi>-like Decoy!</l>
+                  <l>His Habit firſt was for the King.</l>
+                  <l>At <hi>Oxford,</hi> till this meer Changeling</l>
+                  <l>Got new Ones at New-<hi>Troy.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="11" facs="tcp:119837:7"/>
+                  <l>Then was he call'd <hi>Britannicus,</hi>
+                  </l>
+                  <l>Sometimes the <hi>Spy,</hi> and thus, and thus.</l>
+                  <l>He flutter'd up and down;</l>
+                  <l>Till he did ſend his <hi>Hue</hi> and <hi>Cry</hi>
+                  </l>
+                  <l>After his Sacred Majeſty,</l>
+                  <l>(Diſguiſ'd from Town to Town.</l>
+               </lg>
+               <lg>
+                  <l>Wherein he did preſcribe a Dos</l>
+                  <l>Should be adminiſtred in groſs,</l>
+                  <l>Unto our Glorious King,</l>
+                  <l>Of Penny-royall, Herb-of-Grace,</l>
+                  <l>The Thiſtle, that call'd bleſſed was,</l>
+                  <l>And other Herbs ith' Spring.</l>
+               </lg>
+               <lg>
+                  <l>And that he ſhould be blooded too</l>
+                  <l>
+                     <hi>Venâ Baſilicâ,</hi> that ſo</l>
+                  <l>All his Malignant blood</l>
+                  <l>Might be let out, and thereby all</l>
+                  <l>His Evill Humours, from his Gall</l>
+                  <l>Ore flowing, might be good.</l>
+               </lg>
+               <lg>
+                  <l>But when the Parliament diſdain'd,</l>
+                  <l>That ſuch a Rogue ſhould be maintain'd</l>
+                  <l>In his Impietie;</l>
+                  <l>To <hi>New-gate</hi> was he ſent with ſpeed,</l>
+                  <l>And quarter'd had been for that Deed,</l>
+                  <l>But for another Cry.</l>
+               </lg>
+               <lg>
+                  <l>He mercy crav'd from our good <hi>KING,</hi>
+                  </l>
+                  <l>At <hi>Hampton-Court,</hi> and vow'd to ſing</l>
+                  <l>A <hi>Palinede;</hi> and then</l>
+                  <l>He turn'd <hi>Pragmatious,</hi> ſo long,</l>
+                  <l>Till <hi>Bradſhaw</hi> made him ſing a Song</l>
+                  <l>In <hi>New-gate</hi> once agen.</l>
+               </lg>
+               <lg>
+                  <pb n="12" facs="tcp:119837:8"/>
+                  <l>When Murdered was our Royall King,</l>
+                  <l>No place, or Age e're knew a Thing</l>
+                  <l>So damnable before!</l>
+                  <l>And that the bloody Preſident,</l>
+                  <l>Corrupted had <hi>Mar. Nedham,</hi> Gent.</l>
+                  <l>He was a Cab no more.</l>
+               </lg>
+               <lg>
+                  <l>Then did he plead for <hi>Common-wealth,</hi>
+                  </l>
+                  <l>And made a Caſe with ſo much ſtealth,</l>
+                  <l>The like was never ſeen!</l>
+                  <l>
+                     <hi>Politicus</hi> was all in all!</l>
+                  <l>His <hi>Leyden</hi> Letters witneſſe ſhall,</l>
+                  <l>What Traytor he has been.</l>
+               </lg>
+               <lg>
+                  <l>The Virtuous King of <hi>Scots,</hi> he make's</l>
+                  <l>A Vicious <hi>Tarquin,</hi> and up rakes,</l>
+                  <l>What malice could invent,</l>
+                  <l>To make our ancient Government,</l>
+                  <l>By three Eſtates in Parliament,</l>
+                  <l>And helliſh Regiment.</l>
+               </lg>
+               <lg>
+                  <l>And whom! but for the <hi>Rump,</hi> contend's!</l>
+                  <l>Till <hi>Oliver</hi> them packing ſends,</l>
+                  <l>In <hi>Aprill</hi> fifty three:</l>
+                  <l>And then he turns the Cat i'th' pan!</l>
+                  <l>
+                     <hi>Politicus</hi> is no ſuch man,</l>
+                  <l>As he was wont to be!</l>
+               </lg>
+               <lg>
+                  <l>He turns a Protectorian;</l>
+                  <l>Sayes, <hi>Cromwell</hi> is the onely Man</l>
+                  <l>For Government moſt fit,</l>
+                  <l>And in the Weekly Phamphets, chirrups</l>
+                  <l>Such ſtuff, as <hi>Atkins</hi> make's in Syrups,</l>
+                  <l>When he is all be-</l>
+               </lg>
+               <lg>
+                  <pb n="13" facs="tcp:119837:8"/>
+                  <l>When <hi>Noll</hi> was ſent for down to Hell,</l>
+                  <l>(As all the Devils know it well,)</l>
+                  <l>And <hi>Dick</hi> hopp'd into's place!</l>
+                  <l>Oh! how he made that formall Fool</l>
+                  <l>For Government the onely Toole,</l>
+                  <l>That was in all the Caſe.</l>
+               </lg>
+               <lg>
+                  <l>But when the Brothers were skipp'd out,</l>
+                  <l>And made a flout by every Lout,</l>
+                  <l>As well they did deſerve!</l>
+                  <l>Then <hi>Noll,</hi> and his Uſurping Fry,</l>
+                  <l>('Tis truth! <hi>For Intereſt will not Lye!</hi>)</l>
+                  <l>
+                     <hi>Nedham</hi> no more can ſerve.</l>
+               </lg>
+               <lg>
+                  <l>He's for the <hi>Rump</hi> again, till they</l>
+                  <l>By <hi>Lambert</hi> trudg'd the Poſtern-way,</l>
+                  <l>As once before they went:</l>
+                  <l>And then he turn'd an Army-blade,</l>
+                  <l>Till honeſt <hi>George</hi> them Fools had made,</l>
+                  <l>And brought the <hi>Rump</hi> in ſcent.</l>
+               </lg>
+               <lg>
+                  <l>Then was poore <hi>Pol</hi> at ſuch a fault,</l>
+                  <l>(Before a Cripple who can halt?)</l>
+                  <l>He knew not how to beat;</l>
+                  <l>But to be beaten was moſt ſure,</l>
+                  <l>For ſuch a Turncoat, who'l endure,</l>
+                  <l>That is a Man compleat?</l>
+               </lg>
+               <lg>
+                  <l>Thus as he paſt along the <hi>Strand,</hi>
+                  </l>
+                  <l>A Gentleman, that was well mann'd,</l>
+                  <l>Made him to turn his Taile,</l>
+                  <l>And drubb'd him ſo upon the <hi>Rump,</hi>
+                  </l>
+                  <l>The <hi>Rump</hi> was never truſs'd ſo plump,</l>
+                  <l>Since 'twas a <hi>Rump</hi> for faile:</l>
+               </lg>
+               <lg>
+                  <pb n="14" facs="tcp:119837:9"/>
+                  <l>This, and the News of our good King,</l>
+                  <l>And Lords and Commons, well coming</l>
+                  <l>Each other in ſhort ſpace;</l>
+                  <l>At <hi>Weſtminster</hi> the Birds is flown,</l>
+                  <l>And to ſome other place is gone,</l>
+                  <l>By changing of his face.</l>
+               </lg>
+               <lg>
+                  <l>But if at <hi>Amſterdam</hi> you meet,</l>
+                  <l>With one that's pur-blinde in the ſtreet;</l>
+                  <l>
+                     <hi>Hawk noſ'd,</hi> turn up his hair,</l>
+                  <l>And in his Eares, two holes you'le finde,</l>
+                  <l>And (if they are not pawn'd behinde,)</l>
+                  <l>Two Rings are hanging there.</l>
+               </lg>
+               <lg>
+                  <l>His Viſage ſmeager is and long,</l>
+                  <l>His Body ſlender; but his Tongue</l>
+                  <l>If once you chance to hear;</l>
+                  <l>Obſerve it well; It has a Grace,</l>
+                  <l>Becomming no ſuch Traitor's face,</l>
+                  <l>Of <hi>Engliſh,</hi> that are there.</l>
+               </lg>
+               <lg>
+                  <l>Some forty years he is of age,</l>
+                  <l>In's prime to act on any Stage,</l>
+                  <l>And fit for any Plot;</l>
+                  <l>Had not he been of <hi>Oxford</hi> ſhire,</l>
+                  <l>Becauſe he writes ſo much for hire;</l>
+                  <l>I'de ſwear, he was a Scot.</l>
+               </lg>
+               <lg>
+                  <l>If you will ask, what ſhall be done</l>
+                  <l>With this Pie-bald <hi>Chamelion,</hi>
+                  </l>
+                  <l>In caſe you ſend him home;</l>
+                  <l>He ſhall be hang'd upon a Tree,</l>
+                  <l>Cut down alive, and then you'le ſee</l>
+                  <l>His Quarters have their Doom.</l>
+               </lg>
+               <trailer>Finis, Funis, Funus.</trailer>
+               <pb facs="tcp:119837:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
